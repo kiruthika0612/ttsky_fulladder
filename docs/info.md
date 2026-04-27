@@ -8,13 +8,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+ It add  three bit and produce sum and carry as output
 
 ## How to test
 
-Explain how to use your project
+according to the input it will check and give the output
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+no external hardware used
